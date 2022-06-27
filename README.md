@@ -51,7 +51,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Author - [Leonardo Zhu](https://github.com/leonardo-zhu)
-- Website - [https://leonardo-zhu.github.io/)
+- Website - [Github Page](https://leonardo-zhu.github.io/)
 
 [//]: # (- Twitter - [@nestframework]&#40;https://twitter.com/nestframework&#41;)
 

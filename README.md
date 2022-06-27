@@ -24,17 +24,16 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) Practice GraphQL with Nest.js, using MySQL as the database.
 
-## Installation
+## Getting Start
 
-```bash
-$ npm install
-```
+set the .env for the project and fill the environment variables, you need use your own database.
+
 
 ## Running the app
 
-```bash
+```shell
 # development
 $ npm run start
 
@@ -45,28 +44,16 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Leonardo Zhu](https://github.com/leonardo-zhu)
+- Website - [https://leonardo-zhu.github.io/)
+
+[//]: # (- Twitter - [@nestframework]&#40;https://twitter.com/nestframework&#41;)
 
 ## License
 

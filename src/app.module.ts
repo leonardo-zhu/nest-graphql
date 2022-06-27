@@ -19,6 +19,7 @@ import { TypeOrmModule } from '@nestjs/typeorm';
         port: config.get('MYSQL_PORT'),
         username: config.get('MYSQL_USERNAME'),
         password: config.get('MYSQL_PASSWORD'),
+        database: config.get('MYSQL_DATABASE'),
       }),
       inject: [ConfigService],
     }),
